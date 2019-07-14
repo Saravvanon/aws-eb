@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "hi we are in ansible devops platform";
+echo "AWS Elastic Beanstalk Service code";
 ?>
 
 </body>
