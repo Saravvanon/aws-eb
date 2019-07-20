@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "AWS Elastic Beanstalk Service code";
+echo "AWS Elastic Beanstalk Service code -Test";
 ?>
 
 </body>
